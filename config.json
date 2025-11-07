@@ -16,8 +16,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Oggy fxz bot",
-    "PREFIX": "+",
+    "BOTNAME": "Tanjiro bot",
+    "PREFIX": ".",
     "ADMINBOT": [
         "100087555698178"
     ],
